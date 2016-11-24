@@ -5,7 +5,13 @@ body {
 }
 p {
   font-family: 'Ravi Prakash', cursive;
+  font-size: 30px; 
+}
+h1 {
+  font-size: 70px; 
+  font-family: 'Ravi Prakash', cursive;
 }
 h2 {
   font-size: 50px; 
+  font-family: 'Ravi Prakash', cursive;
 }
